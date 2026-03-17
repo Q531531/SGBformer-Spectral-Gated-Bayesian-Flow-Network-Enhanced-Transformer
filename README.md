@@ -1,6 +1,6 @@
 # SGBformer: Spectral-Gated Bayesian Flow Network Enhanced Transformer for All-Weather Image Restoration
 This repository contains the PyTorch implementation of SGBformer, a novel transformer-based architecture for all-weather image restoration. 
-
+![结构图](/结构图.png)
 ## Highlights
 
 - Spectral-gated backbone + BFN residual refinement.
